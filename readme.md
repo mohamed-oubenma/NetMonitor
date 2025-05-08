@@ -4,6 +4,10 @@ This script periodically checks the status of your internet connection and alert
 
 **Note:** This script is designed to work on **Windows** only.
 
+# Why I Created This
+
+I often use a VPN for work and security. Sometimes, the VPN disconnects without any obvious notification, and I don't notice the loss of connection until a long time has passed. This script helps me detect internet (and VPN) disconnections quickly, so I can take action right away.
+
 ## Features
 
 1. **Internet Connection Check**:
